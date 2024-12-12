@@ -1,0 +1,3 @@
+Mubeen Haider,HR,1234567890,Manager,50000.0,Active
+Sara Ali,IT,0987654321,Developer,60000.0,Inactive
+Ali Khan,Finance,1122334455,Accountant,70000.0,Active
